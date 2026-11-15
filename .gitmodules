@@ -1,0 +1,3 @@
+[submodule "microservices/billing"]
+	path = microservices/billing
+	url = git@github.com:adrianoabreu/algaworks-algashop-billing.git
