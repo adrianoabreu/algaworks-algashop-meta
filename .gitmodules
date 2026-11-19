@@ -10,3 +10,9 @@
 	path = docs
 	url = git@github.com:adrianoabreu/algaworks-algashop-docs.git
     branch = main
+[submodule "algaworks-algashop-product-catalog"]
+	path = algaworks-algashop-product-catalog
+	url = git@github.com:adrianoabreu/algaworks-algashop-product-catalog.git
+[submodule "microservices/product-catalog"]
+	path = microservices/product-catalog
+	url = git@github.com:adrianoabreu/algaworks-algashop-product-catalog.git
